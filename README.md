@@ -1,6 +1,6 @@
 # Coinbase: A Case Study
 
-![Cointbase](Coinbase_1.png)
+![Cointbase](Coinbase_01.png)
 
 ## Overview and Origin
 
