@@ -47,7 +47,11 @@
 
     - NGINX: a high perfoemance free open source web server, powerinng the busiest sites on the Internet
 
-    -
+    - Ruby: a dynamic, interpreted, opensource programming language with a focus on simplicity and productivity
+
+    - Google Analytics: Measures the advertising ROI as well as Flash, video and social networkignn sites and applications
+
+    - BlockScore: an identity verification and anti-fraud solution - verifying customers identities
 
 ## Landscape:
 
@@ -59,7 +63,7 @@
 
 - What are the other major companies in this domain?
 
-  - _Some of Coinbase's biggest competitors are definitley Binance and Kraken. While there are a few other companies offering P2P lending like Celcius offering almost 10% APR on money sitting in surtain cryptoassets._
+  - _Some of Coinbase's biggest competitors are definitley Binance and Kraken. While there are a few other companies offering P2P lending like Celcius offering almost 10% APR on money sitting in curtain cryptoassets._
 
 ## Results
 
