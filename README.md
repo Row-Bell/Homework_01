@@ -2,6 +2,8 @@
 
 ![Cointbase](Coinbase_01.png)
 
+by Robel Arega
+
 ## Overview and Origin
 
 - Name of company:
