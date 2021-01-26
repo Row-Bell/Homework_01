@@ -41,25 +41,13 @@
 
 - Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
-  - _Coinbase is using less of a technology as reframing the norms, and making crypto asset buying accessible to everyday people that don't know what a cryptowallet is. Coinbase can be thought of a Brokerage for your crypto assets, while a wallet is as simple as a regular money wallet._
-
-  - _But some interesing technologies Coinbase is implementing range include:_
-
-    - NGINX: a high perfoemance free open source web server, powerinng the busiest sites on the Internet
-
-    -
-
 ## Landscape:
 
 - What domain of the financial industry is the company in?
 
-  - _Coinbase is firmly in the cryptocurrency space. Since it is in the crypto space, it joins the slew of companies interupting the way people handle their own money._
-
 - What have been the major trends and innovations of this domain over the last 5-10 years?
 
 - What are the other major companies in this domain?
-
-  - _Some of Coinbase's biggest competitors are definitley Binance and Kraken. While there are a few other companies offering P2P lending like Celcius offering almost 10% APR on money sitting in surtain cryptoassets._
 
 ## Results
 
@@ -73,21 +61,11 @@
 
 - If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
-  - _I would advise Coinbase to continue and even extend their crypto education offering. Right now there are otpions for people with Coinbase accounts to receive altcoins for just taking quick class. This gets people excited about the possibilities of cryptocurrency and also has Coinbase as the face of their first interaction with cryptocurrency - thus creating a customer._
-
-  - _Another suggestion would be to offer more options to earn extra crypto to the crypto sittin in users accounts at a higher interest rate._
-
 - Why do you think that offering this product or service would benefit the company?
-
-  - _I think this will bring more users to Coinbase. Since most people invested into cryptocurrencies are already in the market, offering something like P2P lending would bring more people to Coinbase's platform._
 
 - What technologies would this additional product or service utilize?
 
-  -
-
 - Why are these technologies appropriate for your solution?
-
-  -
 
 Sources:
 
