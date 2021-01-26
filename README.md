@@ -99,3 +99,4 @@ Sources:
 - [USV Investment into Coinbase - Series A $5 Million](https://www.usv.com/writing/2013/05/Coinbase/)
 - [Tech Crunch - Series B - Additional $25 Million Investment](https://techcrunch.com/2013/12/12/Coinbase-raises-25m-from-andreessen-horowitz-to-build-its-bitcoin-wallet-and-merchant-services/)
 - [Decrypt - Coinbase Client Base](https://decrypt.co/36762/Coinbase-client-base-up-again-to-35-million-report)
+- [Stackshare - Interesting technologies used by Coinbase](https://stackshare.io/coinbase/coinbase)
