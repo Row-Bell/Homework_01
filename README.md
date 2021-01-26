@@ -37,21 +37,19 @@
 
   - _The intended customer has always been the person who wants an easy way to invest in Bitcoin, now all crypto. Someone who doesn't want to go through the hassle of creating or buying their own wallet. Something simple._
 
-  - _Their market size is huge, with access to over 40 US states and territories. As of 2017, Coinbase grown from their 1 million users in 2012 to over 13.3 million users. As of 2020, Coinbase has over 35 million users in over 100 countries._
+  - _Their market size is huge, and as of 2020, Coinbase has over 35 million users in over 100 countries._
 
 - Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
 
-  - _Coinbase is using less of a technology as reframing the norms, and making crypto asset buying accessible to everyday people that don't know what a cryptowallet is. Coinbase can be thought of a Brokerage for your crypto assets, while a wallet is as simple as a regular money wallet._
+  - _Some interesing technologies Coinbase is implementing include:_
 
-  - _But some interesing technologies Coinbase is implementing range include:_
+    - NGINX: This is an HTTP and reverse proxy server - According to Netcraft NGINX sreved 30.46% of the top million busiest sites in Jan 2018
 
-    - NGINX: a high perfoemance free open source web server, powerinng the busiest sites on the Internet
-
-    - Ruby: a dynamic, interpreted, opensource programming language with a focus on simplicity and productivity
+    - Ruby: A dynamic, interpreted, opensource programming language with a focus on simplicity and productivity
 
     - Google Analytics: Measures the advertising ROI as well as Flash, video and social networkignn sites and applications
 
-    - BlockScore: an identity verification and anti-fraud solution - verifying customers identities
+    - BlockScore: An identity verification and anti-fraud solution - verifying customers identities
 
 ## Landscape:
 
@@ -61,17 +59,25 @@
 
 - What have been the major trends and innovations of this domain over the last 5-10 years?
 
+  - _The major trends and innovations of cryptocurrency in the last 5-10 years have been astounding. Bitcoin has taken cryptocurrency from the obscure hedge to a deflating dollar to the mainstream. With all the applications of Blockchain from servicing underserviced peoples of the world to fixing the electoral process, the limits are endless._
+
 - What are the other major companies in this domain?
 
-  - _Some of Coinbase's biggest competitors are definitley Binance and Kraken. While there are a few other companies offering P2P lending like Celcius offering almost 10% APR on money sitting in curtain cryptoassets._
+  - _Some of Coinbase's biggest competitors are definitley Binance and Kraken. While there are a few other companies offering P2P lending like Celcius offering almost 10% APR on money sitting in curtain cryptoassets (DAI)._
 
 ## Results
 
 - What has been the business impact of this company so far?
 
+  - _Coinbase has introduced the casual investor to cryptocurrency in a straight forward intuitive way._
+
 - What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
+  - _The core metrics that companies in this domain use to measure success would have to be users and how much money they're holding for those users. Based on 2020 metrics, Coinbase has over 35 million users in over 100 countries. So.. pretty good._
+
 - How is your company performing relative to competitors in the same domain?
+
+  - _Coinbases biggest competitor is Binance who in 2020 counted 15 million users._
 
 ## Recommendations
 
@@ -87,11 +93,11 @@
 
 - What technologies would this additional product or service utilize?
 
-  -
+  - _This additional product of more education would involve little to no additional technological advaces, just do more. The peer-to-peer lending or even business-to-business lending could gain a great deal from Blockchain technologies to get money to people faster and more secure._
 
 - Why are these technologies appropriate for your solution?
 
-  -
+  - _Blockchain would ensure through a series of verifications the money sent out to the people lending gets to them, and on the other end, doesn't ensure the money is paid back, but the money borrowed will be billed to the correct person_
 
 Sources:
 
@@ -104,3 +110,4 @@ Sources:
 - [Tech Crunch - Series B - Additional $25 Million Investment](https://techcrunch.com/2013/12/12/Coinbase-raises-25m-from-andreessen-horowitz-to-build-its-bitcoin-wallet-and-merchant-services/)
 - [Decrypt - Coinbase Client Base](https://decrypt.co/36762/Coinbase-client-base-up-again-to-35-million-report)
 - [Stackshare - Interesting technologies used by Coinbase](https://stackshare.io/coinbase/coinbase)
+- [Binance - The amount of users binance has](https://www.binance.com/en/blog/421499824684901410/Binance-2020-Milestones-The-Tipping-Point)
